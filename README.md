@@ -50,11 +50,12 @@ The overarching goal of this project is to combine outputs from both modules to 
 - Plan Slicer module UI for final output visualization.
 
 # Illustrations
-![CLIC output](image.png)
+![image](https://github.com/user-attachments/assets/28abe255-b5ab-427e-9ef9-d2210e95dca0)
+
 
 *Figure 1 : Segmentation of impacted canines using CLIC*
 
-![Universal Labeling output](image-1.png)
+![image](https://github.com/user-attachments/assets/8b28c37e-53e0-4799-a18e-a7ec3777b6f2)
 
 *Figure 2 : output of Universal Labeling*
 
