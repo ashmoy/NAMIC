@@ -40,7 +40,7 @@ The overarching goal of this project is to combine outputs from both modules to 
 # Progress and Next Steps
 
 **Completed:**
-- CLIC module is finalized and tested on multiple datasets.
+- CLIC module is finalized and tested.
 - Basic Universal Labeling module is functional.
 
 **Next steps:**
