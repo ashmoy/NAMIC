@@ -15,7 +15,7 @@ key_investigators:
 
 # Project Description
 
-This project aims to integrate and build upon two existing 3D Slicer modules — **CLIC** and **Universal Labeling** — to support the automated detection and classification of impacted canines and the severity of root resorption in adjacent teeth.
+This project aims to integrate and build upon two existing 3D Slicer modules **CLIC** and **Universal Labeling** to support the automated detection and classification of impacted canines and the severity of root resorption in adjacent teeth.
 The **CLIC** module uses a Mask R-CNN segmentation model to localize and classify impacted canines from CBCT scans. It is fully developed and operational.
 The **Universal Labeling** module, use nnUNet to automatically labels all teeth (including primary teeth), is still in development. It currently produces mirrored labeling errors in some cases (e.g., labeling both left and rightcanines as "right canine").
 The overarching goal of this project is to combine outputs from both modules to develop and train a new model capable of **automatically classifying the severity of root resorption** in teeth adjacent to impacted canines.
