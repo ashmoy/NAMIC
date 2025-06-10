@@ -30,10 +30,9 @@ This project extends CLIC by developing a supervised model to automatically clas
 1. Run CLIC across the CBCT dataset to isolate impacted canines.  
 2. Combine CLIC masks to extract volumes of adjacent teeth.  
 3. Annotate each extracted tooth volume with a severity label (mild, moderate, severe).  
-4. Extract geometric and morphological feature sets from each volume.  
-5. Train a classifier on these features.  
-6. Extend CLIC or create a new Slicer module for real‐time severity classification.  
-7. Validate model performance (accuracy, recall, precision) and integrate into the 3D visualization workflow.
+4. Train a classifier on these features.  
+5. Extend CLIC or create a new Slicer module for real‐time severity classification.  
+6. Validate model performance (accuracy, recall, precision) and integrate into the 3D visualization workflow.
 
 # Progress and Next Steps
 
@@ -43,7 +42,7 @@ This project extends CLIC by developing a supervised model to automatically clas
 
 **Next Steps:**
 - Clinician annotation of extracted tooth volumes.  
-- Feature engineering and model training.  
+- Model training.  
 - UI design for severity score display in Slicer.  
 - Performance evaluation and final documentation.
 
