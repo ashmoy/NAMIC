@@ -1,8 +1,8 @@
 ---
 layout: pw43-project
-permalink: /clic-root-resorption-classification/
-project_title: "Root Resorption Severity Classification in Impacted Canine Cases Using CLIC"
-category: Segmentation / Classification
+permalink: /universal-tooth-labeling/
+project_title: "Universal Tooth Labeling Module"
+category: Segmentation / Landmarking
 key_investigators:
 - name: Enzo Tulissi
   affiliation: University of Michigan
@@ -10,7 +10,14 @@ key_investigators:
 - name: Lucia Cevidanes
   affiliation: University of Michigan
   country: USA
+- name: Juan Prieto
+  affiliation: University of North Carolina 
+  country: USA
+- name: Jonas Bianchi
+  affiliation: University of Pacific
+  country: USA
 ---
+
 
 # Project Description
 
