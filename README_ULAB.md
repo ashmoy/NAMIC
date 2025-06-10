@@ -10,6 +10,14 @@ key_investigators:
 - name: Lucia Cevidanes
   affiliation: University of Michigan
   country: USA
+
+- name: Juan Prieto
+affiliation: University of North Carolina 
+country: USA
+
+- name: Jonas Bianchi
+  affiliation: University of Pacific
+  country: USA
 ---
 
 # Project Description
