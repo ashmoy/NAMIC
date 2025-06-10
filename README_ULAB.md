@@ -11,8 +11,8 @@ key_investigators:
   affiliation: University of Michigan
   country: USA
 - name: Juan Prieto
-affiliation: University of North Carolina 
-country: USA
+  affiliation: University of North Carolina 
+  country: USA
 - name: Jonas Bianchi
   affiliation: University of Pacific
   country: USA
