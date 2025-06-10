@@ -27,12 +27,10 @@ Currently, some outputs exhibit left/right mirroring errors (e.g., both canines 
 
 # Approach and Plan
 
-1. Analyze cases with mirroring errors and identify their characteristics.  
-2. Expand the training dataset with side‐specific augmentations.  
-3. Tune nnUNet hyperparameters for optimal label accuracy.  
-4. Develop a post‐processing module to enforce correct left/right assignment.  
-5. Evaluate performance (DSC, IoU) on a dedicated test set.  
-6. Deploy the improved module in 3D Slicer and gather clinician feedback.
+1. Analyze cases with mirroring errors and identify their characteristics.    
+2. Tune nnUNet hyperparameters for optimal label accuracy.  
+3. Develop a post‐processing module to enforce correct left/right assignment.  
+4. Evaluate performance (DSC, IoU) on a dedicated test set.  
 
 # Progress and Next Steps
 
@@ -42,7 +40,7 @@ Currently, some outputs exhibit left/right mirroring errors (e.g., both canines 
 
 **Next Steps:**
 - Fix mirroring bugs in output labels.  
-- Retrain model on augmented dataset.  
+
 - Build and test side‐verification post‐processing.  
 - Conduct clinical validation and benchmarking.
 
