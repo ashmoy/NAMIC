@@ -48,7 +48,8 @@ Currently, some outputs exhibit left/right mirroring errors (e.g., both canines 
 
 # Illustrations
 
-![Universal Labeling Output](image-1.png)  
+![image](https://github.com/user-attachments/assets/5632a488-8b6d-45b3-946c-567c8d40b613)
+
 *Figure 1: Example output from Universal Tooth Labeling*
 
 # Background and References
