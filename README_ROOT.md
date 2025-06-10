@@ -49,7 +49,8 @@ This project extends CLIC by developing a supervised model to automatically clas
 
 # Illustrations
 
-![CLIC Output](image.png)  
+![image](https://github.com/user-attachments/assets/6f588a90-3e77-440c-b5c9-9ef0c9550150)
+
 *Figure 1: Impacted canine segmentation results from CLIC*
 
 # Background and References
